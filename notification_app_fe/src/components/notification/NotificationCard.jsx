@@ -31,9 +31,9 @@ import {
 import {
   formatRelativeTime,
   getTypeBadgeStyle,
-  truncateText,
-  getPriorityLabel
+  truncateText
 } from '../../utils/formatUtils.js';
+import { getPriorityLabel } from '../../utils/priorityUtils.js';
 import { isNotificationViewed, markNotificationAsViewed } from '../../utils/storageUtils.js';
 import { logNotificationView, logUserAction } from '../../middleware/logger.js';
 
