@@ -47,3 +47,6 @@ Thumbs.db
 
 # temporary files
 *.tmp
+
+# local portable runtime artifacts
+node-portable/
