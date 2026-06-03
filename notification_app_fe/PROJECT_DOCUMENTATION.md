@@ -4,6 +4,8 @@
 
 This repository contains a production-grade Campus Notifications frontend built with React, Vite, JavaScript, Material UI, Axios, and React Router.
 
+![Application Screenshot](./SCREENSHOT.svg)
+
 The app provides:
 - Dashboard statistics
 - All notifications browsing

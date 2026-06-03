@@ -8,6 +8,8 @@
 
 A production-grade, enterprise-level campus notifications system built with React, Vite, Material UI, and comprehensive logging. Features priority-based inbox, advanced filtering, and complete observability through structured logging.
 
+![Application Screenshot](./SCREENSHOT.svg)
+
 ## 🚀 Features
 
 - **Priority Inbox**: Intelligent sorting by notification type (Placement=3, Result=2, Event=1)
